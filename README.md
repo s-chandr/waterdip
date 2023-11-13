@@ -22,10 +22,10 @@
    - Bulk delete tasks: `DELETE /v1/tasks/bulk`
 
 ## Testing
-Run tests with `pytest test_endpoints.py`
+Run tests with `pytest tests.py`
 
 ## Contributing
-Feel free to contribute! Fork the repo and submit a pull request.
+This is made by s-chandr with ❤️ in python.
 
 ## License
 This project is licensed under the MIT License.
